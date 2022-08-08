@@ -6,5 +6,5 @@ I am using pytorch and hugginface and ran the code on 2 A40 GPU. The process is 
 
 Let me know if you have any questions or issues with the code or process, my email is zlu21@vols.utk.edu.
 
-It's been fun!
-Thanks
+Thanks for hosting the challenge, it's been fun!
+
