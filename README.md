@@ -4,7 +4,7 @@ Codes are organized into two jupyter notebooks (DREAM_NLP_Regression_Train.ipynb
 
 I am using pytorch and hugginface and ran the code on 2 A40 GPU. The process is fairly straightforward, you can DREAM_NLP_Regression_Train.ipynb the trainning step that uses all the training data gets an R2 score around 51-53. And the fine tuning step gets an R2 score around 68-70. This corresponds to 0.628 scored R2 based on the leaderboard feedback.
 
-The repo should contain everything you need to run the models end to end, the epoches for my runs were saved on drive at this link:
+The repo should contain everything you need to run the models end to end, the saved weights and configs for for my runs were saved on drive at this link:
 
 https://drive.google.com/drive/folders/16JASUUUmoVhMOxqxR4KHHthXKxtFGf0n?usp=sharing
 
