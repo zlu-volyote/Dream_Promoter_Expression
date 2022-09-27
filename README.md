@@ -10,5 +10,3 @@ https://drive.google.com/drive/folders/16JASUUUmoVhMOxqxR4KHHthXKxtFGf0n?usp=sha
 
 Let me know if you have any questions or issues with the code or process, my email is zlu21@vols.utk.edu.
 
-Thanks for hosting the challenge, it's been fun!
-
